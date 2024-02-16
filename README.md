@@ -22,7 +22,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution](planet-facts-page.vercel.app)
+- Solution: planet-facts-page.vercel.app
+
 
 
 ### Built with
