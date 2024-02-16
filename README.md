@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](planet-facts-page.vercel.app)
+- [Solution](planet-facts-page.vercel.app)
 
 
 ### Built with
