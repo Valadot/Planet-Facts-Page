@@ -12,6 +12,13 @@ This is a solution to the [Planets fact site challenge on Frontend Mentor](https
 
 ## Overview
 
+
+<p align="center">
+<img src="https://i.ibb.co/7nGbwt5/Planet-Facts.jpg" alt="Planet-Facts" border="0">
+  
+</p>
+
+
 ### The challenge
 
 Users should be able to:
