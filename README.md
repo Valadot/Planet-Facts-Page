@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution: planet-facts-page.vercel.app
+- [Solution](https://planet-facts-page.vercel.app/)
 
 
 
